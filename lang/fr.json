@@ -1,0 +1,9 @@
+{
+    "cmds": {
+        "error": "Une erreur est survenue lors de l'exécution de la commande.",
+        "disabled": "La commande est désactivée.",
+        "owneronly": "Cette commande est réservée aux propriétaires du bot.",
+        "userPerms": "Vous n'avez pas les permissions requises pour exécuter cette commande.\n- `{perms}`",
+        "embedPerms": "Vous n'avez pas les permissions requises pour utiliser les embeds.\n- `Embed Links`"
+    }
+}
